@@ -1,7 +1,7 @@
 /**
- * @author  Carston Wiebe
+ * @author  C Wiebe
  * @date    2025-03-31
- * @course  CSCE 336 Embedded Systems (Spring 2025)
+ * @course  Embedded Systems (Spring 2025)
  * @file    servo.cpp
  * @hw      Project 1
  * @brief   Implementation file containing code for the servo.

@@ -1,7 +1,7 @@
 /**
- * @author  Carston Wiebe
+ * @author  C Wiebe
  * @date    2025-04-22
- * @course  CSCE 336 Embedded Systems (Spring 2025)
+ * @course  Embedded Systems (Spring 2025)
  * @file    receiver.cpp
  * @hw      Project 2
  * @brief   Implementation file containing code for the receiver.

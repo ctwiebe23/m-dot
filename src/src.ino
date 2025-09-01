@@ -1,7 +1,7 @@
 /**
- * @author  Carston Wiebe
+ * @author  C Wiebe
  * @date    2025-04-22
- * @course  CSCE 336 Embedded Systems (Spring 2025)
+ * @course  Embedded Systems (Spring 2025)
  * @file    src.ino
  * @hw      Project 2
  * @brief   Entry point for a program that uses M-DOT.

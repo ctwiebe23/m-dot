@@ -1,7 +1,7 @@
 /**
- * @author  Carston Wiebe
+ * @author  C Wiebe
  * @date    2025-04-25
- * @course  CSCE 336 Embedded Systems (Spring 2025)
+ * @course  Embedded Systems (Spring 2025)
  * @file    mdot.hpp
  * @hw      Project 2
  * @brief   Header file containing all function prototypes for the robot car
