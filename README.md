@@ -1,10 +1,8 @@
 # Robot Car Project: M-DOT
 
-*CSCE 336 Embedded Systems // Spring 2025 // University of Nebraska-Lincoln*
-
-Repo containing code and diagrams for a maze-navigating robot car built for
-CSCE 336.  The project uses an Arduino UNO, but operates purely using the
-ATmega328P registers — no Arduino libraries.
+Repo containing code and diagrams for a maze-navigating robot car built for my
+Embedded Systems class.  The project uses an Arduino UNO, but operates purely
+using the ATmega328P registers — no Arduino libraries.
 
 ## Directories
 

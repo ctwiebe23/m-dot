@@ -1,14 +1,14 @@
 ---
 title: M-DOT
-subtitle: CSCE 336 Embedded Systems // Project 2 Report
-author: Carston Wiebe
+subtitle: Embedded Systems // Project Report
+author: C Wiebe
 date: May 9, 2025
 numbersections: true
 colorlinks: true
 links-as-notes: true
 toc: true
 header:
-  right: University of Nebraska-Lincoln
+  right: University of Placename
 toc-on-own-page: true
 margin-top: 1.2in
 margin-bottom: 1.2in
@@ -445,4 +445,4 @@ Resources used:
 - Various datasheets for the ATmega328P, HC-SR04, L298, SG90, and AX-1883HS.
 - Schematic for the Arduino UNO.
 - [Fritzing](https://fritzing.org) for wiring diagrams.
-- CSCE 336 resources such as slides and recorded videos.
+- Class resources such as slides and recorded videos.
